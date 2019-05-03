@@ -1,0 +1,19 @@
+Project Report in Brief:
+
+
+1.  Use Jupyter Notebook 3 to run source code.
+
+2.  Upload the Imdb movie dataset in jupyter Notebook after pooling the data from GitHub. 
+
+3.  After Data preprocessing and Splitting the data in 80:20 ratio model fitting has been done.
+
+4.  I run four classifiers after Tuning the parameter using GridSearchCV to best parameter combination.  
+ 
+5.  Obtained 67% average accuracy from RandomForest, DecisionTree, GradientBoost and MLP classifier.
+
+6.  Confusion matrix has been obtained for every classifier.  
+
+7.  Source code has been provided in .ipynb file 
+
+
+
